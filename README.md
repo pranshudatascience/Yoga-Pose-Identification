@@ -20,7 +20,12 @@ Some Of the poses are :
 
 
 
-![Uploading image.png…]()
+
+![image](https://user-images.githubusercontent.com/31736193/129048432-e47081b6-4da1-4bd0-b2f2-4f014c904a16.png)
+
+
+
+
 
 
 
